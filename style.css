@@ -20,4 +20,19 @@
 
 html {
     font-family: 'Open Sans', sans-serif;
+    color: var(--text-color);
+}
+
+body {
+    padding: 1em;
+    background-color: var(--base-color);
+}
+
+h1, h2, h3 {
+    font-family: 'Merriweather', serif;
+}
+nav {
+    margin: 1em auto 3em auto;
+    width: min(1000px, 100%);
+
 }
