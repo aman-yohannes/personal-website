@@ -74,3 +74,14 @@ header, section {
     flex-wrap: wrap;
     gap: 3em;
 }
+
+header img {
+    max-width: 100%;
+    border-radius: 1em;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+.text-container {
+    flex: 0 1 34em;
+}
