@@ -66,3 +66,11 @@ header, section {
     padding: min(2em, 15%);
     border-radius: 1em;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 3em;
+}
