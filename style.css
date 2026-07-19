@@ -85,3 +85,11 @@ header img {
 .text-container {
     flex: 0 1 34em;
 }
+
+h1 {
+    font-size: 2.5rem;
+}
+.text-container p {
+    margin: .75em 0 1em 0;
+    font-size: 1.25rem;
+}
