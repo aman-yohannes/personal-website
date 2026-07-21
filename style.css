@@ -159,3 +159,19 @@ section#projects {
 .grid-container img:hover {
     transform: scale(1.05);
 }
+
+details {
+    margin-top: 1em;
+    background-color: var(--color-1);
+    border-radius: 1em;
+}
+
+details summary {
+    padding: 1em;
+    font-size: 1.7rem;
+    font-family: Merriweather, serif;
+}
+
+details p {
+    padding: 0 2em 2em 2em;
+}
