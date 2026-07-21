@@ -233,3 +233,11 @@ footer a:hover {
         font-size: 1.5rem;
     }
 }
+
+details a{
+    color: var(--text-color);
+    text-decoration: none;
+}
+details a:hover{
+    text-decoration: underline;
+}
